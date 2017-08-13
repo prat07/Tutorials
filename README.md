@@ -2,7 +2,7 @@
 
 Collection of My Tutorials
 
-1. Pandas
+1. Pandas (Data Wrangling and Exploratory Data Analysis)
 
 
 
