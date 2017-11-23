@@ -1,0 +1,1046 @@
+Name,Age,Gender,Class,Fare,Survival
+"Allen, Miss. Elisabeth Walton",29.0,Female,1st,211.34,Survived
+"Allison, Master. Hudson Trevor",1.0,Male,1st,151.55,Survived
+"Allison, Miss. Helen Loraine",2.0,Female,1st,151.55,Died
+"Allison, Mr. Hudson Joshua Creighton",30.0,Male,1st,151.55,Died
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25.0,Female,1st,151.55,Died
+"Anderson, Mr. Harry",48.0,Male,1st,26.55,Survived
+"Andrews, Miss. Kornelia Theodosia",63.0,Female,1st,77.96,Survived
+"Andrews, Mr. Thomas Jr",39.0,Male,1st,0.0,Died
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,Female,1st,51.48,Survived
+"Artagaveytia, Mr. Ramon",71.0,Male,1st,49.5,Died
+"Astor, Col. John Jacob",47.0,Male,1st,227.53,Died
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,Female,1st,227.53,Survived
+"Aubart, Mme. Leontine Pauline",24.0,Female,1st,69.3,Survived
+"Barber, Miss. Ellen ""Nellie""",26.0,Female,1st,78.85,Survived
+"Barkworth, Mr. Algernon Henry Wilson",80.0,Male,1st,30.0,Survived
+"Baxter, Mr. Quigg Edmond",24.0,Male,1st,247.52,Died
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,Female,1st,247.52,Survived
+"Bazzani, Miss. Albina",32.0,Female,1st,76.29,Survived
+"Beattie, Mr. Thomson",36.0,Male,1st,75.24,Died
+"Beckwith, Mr. Richard Leonard",37.0,Male,1st,52.55,Survived
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,Female,1st,52.55,Survived
+"Behr, Mr. Karl Howell",26.0,Male,1st,30.0,Survived
+"Bidois, Miss. Rosalie",42.0,Female,1st,227.53,Survived
+"Bird, Miss. Ellen",29.0,Female,1st,221.78,Survived
+"Birnbaum, Mr. Jakob",25.0,Male,1st,26.0,Died
+"Bishop, Mr. Dickinson H",25.0,Male,1st,91.08,Survived
+"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,Female,1st,91.08,Survived
+"Bissette, Miss. Amelia",35.0,Female,1st,135.63,Survived
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28.0,Male,1st,26.55,Survived
+"Blackwell, Mr. Stephen Weart",45.0,Male,1st,35.5,Died
+"Blank, Mr. Henry",40.0,Male,1st,31.0,Survived
+"Bonnell, Miss. Caroline",30.0,Female,1st,164.87,Survived
+"Bonnell, Miss. Elizabeth",58.0,Female,1st,26.55,Survived
+"Borebank, Mr. John James",42.0,Male,1st,26.55,Died
+"Bowen, Miss. Grace Scott",45.0,Female,1st,262.38,Survived
+"Bowerman, Miss. Elsie Edith",22.0,Female,1st,55.0,Survived
+"Brady, Mr. John Bertram",41.0,Male,1st,30.5,Died
+"Brandeis, Mr. Emil",48.0,Male,1st,50.5,Died
+"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,Female,1st,27.72,Survived
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",59.0,Female,1st,51.48,Survived
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",60.0,Female,1st,76.29,Survived
+"Burns, Miss. Elizabeth Margaret",41.0,Female,1st,134.5,Survived
+"Butt, Major. Archibald Willingham",45.0,Male,1st,26.55,Died
+"Calderhead, Mr. Edward Pennington",42.0,Male,1st,26.29,Survived
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",53.0,Female,1st,27.45,Survived
+"Cardeza, Mr. Thomas Drake Martinez",36.0,Male,1st,512.33,Survived
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",58.0,Female,1st,512.33,Survived
+"Carlsson, Mr. Frans Olof",33.0,Male,1st,5.0,Died
+"Carrau, Mr. Francisco M",28.0,Male,1st,47.1,Died
+"Carrau, Mr. Jose Pedro",17.0,Male,1st,47.1,Died
+"Carter, Master. William Thornton II",11.0,Male,1st,120.0,Survived
+"Carter, Miss. Lucile Polk",14.0,Female,1st,120.0,Survived
+"Carter, Mr. William Ernest",36.0,Male,1st,120.0,Survived
+"Carter, Mrs. William Ernest (Lucile Polk)",36.0,Female,1st,120.0,Survived
+"Case, Mr. Howard Brown",49.0,Male,1st,26.0,Died
+"Cavendish, Mr. Tyrell William",36.0,Male,1st,78.85,Died
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",76.0,Female,1st,78.85,Survived
+"Chaffee, Mr. Herbert Fuller",46.0,Male,1st,61.18,Died
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",47.0,Female,1st,61.18,Survived
+"Chambers, Mr. Norman Campbell",27.0,Male,1st,53.1,Survived
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,Female,1st,53.1,Survived
+"Chaudanson, Miss. Victorine",36.0,Female,1st,262.38,Survived
+"Cherry, Miss. Gladys",30.0,Female,1st,86.5,Survived
+"Chevre, Mr. Paul Romaine",45.0,Male,1st,29.7,Survived
+"Clark, Mr. Walter Miller",27.0,Male,1st,136.78,Died
+"Clark, Mrs. Walter Miller (Virginia McDowell)",26.0,Female,1st,136.78,Survived
+"Cleaver, Miss. Alice",22.0,Female,1st,151.55,Survived
+"Colley, Mr. Edward Pomeroy",47.0,Male,1st,25.59,Died
+"Compton, Miss. Sara Rebecca",39.0,Female,1st,83.16,Survived
+"Compton, Mr. Alexander Taylor Jr",37.0,Male,1st,83.16,Died
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",64.0,Female,1st,83.16,Survived
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",55.0,Female,1st,25.7,Survived
+"Crosby, Capt. Edward Gifford",70.0,Male,1st,71.0,Died
+"Crosby, Miss. Harriet R",36.0,Female,1st,71.0,Survived
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",64.0,Female,1st,26.55,Survived
+"Cumings, Mr. John Bradley",39.0,Male,1st,71.28,Died
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,Female,1st,71.28,Survived
+"Daly, Mr. Peter Denis",51.0,Male,1st,26.55,Survived
+"Daniel, Mr. Robert Williams",27.0,Male,1st,30.5,Survived
+"Daniels, Miss. Sarah",33.0,Female,1st,151.55,Survived
+"Davidson, Mr. Thornton",31.0,Male,1st,52.0,Died
+"Davidson, Mrs. Thornton (Orian Hays)",27.0,Female,1st,52.0,Survived
+"Dick, Mr. Albert Adrian",31.0,Male,1st,57.0,Survived
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,Female,1st,57.0,Survived
+"Dodge, Dr. Washington",53.0,Male,1st,81.86,Survived
+"Dodge, Master. Washington",4.0,Male,1st,81.86,Survived
+"Dodge, Mrs. Washington (Ruth Vidaver)",54.0,Female,1st,81.86,Survived
+"Douglas, Mr. Walter Donald",50.0,Male,1st,106.43,Died
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",27.0,Female,1st,247.52,Survived
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",48.0,Female,1st,106.43,Survived
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48.0,Female,1st,39.6,Survived
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49.0,Male,1st,56.93,Survived
+"Dulles, Mr. William Crothers",39.0,Male,1st,29.7,Died
+"Earnshaw, Mrs. Boulton (Olive Potter)",23.0,Female,1st,83.16,Survived
+"Endres, Miss. Caroline Louise",38.0,Female,1st,227.53,Survived
+"Eustis, Miss. Elizabeth Mussey",54.0,Female,1st,78.27,Survived
+"Evans, Miss. Edith Corse",36.0,Female,1st,31.68,Died
+"Flynn, Mr. John Irwin (""Irving"")",36.0,Male,1st,26.39,Survived
+"Foreman, Mr. Benjamin Laventall",30.0,Male,1st,27.75,Died
+"Fortune, Miss. Alice Elizabeth",24.0,Female,1st,263.0,Survived
+"Fortune, Miss. Ethel Flora",28.0,Female,1st,263.0,Survived
+"Fortune, Miss. Mabel Helen",23.0,Female,1st,263.0,Survived
+"Fortune, Mr. Charles Alexander",19.0,Male,1st,263.0,Died
+"Fortune, Mr. Mark",64.0,Male,1st,263.0,Died
+"Fortune, Mrs. Mark (Mary McDougald)",60.0,Female,1st,263.0,Survived
+"Francatelli, Miss. Laura Mabel",30.0,Female,1st,56.93,Survived
+"Frauenthal, Dr. Henry William",50.0,Male,1st,133.65,Survived
+"Frauenthal, Mr. Isaac Gerald",43.0,Male,1st,27.72,Survived
+"Frolicher, Miss. Hedwig Margaritha",22.0,Female,1st,49.5,Survived
+"Frolicher-Stehli, Mr. Maxmillian",60.0,Male,1st,79.2,Survived
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",48.0,Female,1st,79.2,Survived
+"Futrelle, Mr. Jacques Heath",37.0,Male,1st,53.1,Died
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,Female,1st,53.1,Survived
+"Gee, Mr. Arthur H",47.0,Male,1st,38.5,Died
+"Geiger, Miss. Amalie",35.0,Female,1st,211.5,Survived
+"Gibson, Miss. Dorothy Winifred",22.0,Female,1st,59.4,Survived
+"Gibson, Mrs. Leonard (Pauline C Boeson)",45.0,Female,1st,59.4,Survived
+"Giglio, Mr. Victor",24.0,Male,1st,79.2,Died
+"Goldenberg, Mr. Samuel L",49.0,Male,1st,89.1,Survived
+"Goldschmidt, Mr. George B",71.0,Male,1st,34.65,Died
+"Gracie, Col. Archibald IV",53.0,Male,1st,28.5,Survived
+"Graham, Miss. Margaret Edith",19.0,Female,1st,30.0,Survived
+"Graham, Mr. George Edward",38.0,Male,1st,153.46,Died
+"Graham, Mrs. William Thompson (Edith Junkins)",58.0,Female,1st,153.46,Survived
+"Greenfield, Mr. William Bertram",23.0,Male,1st,63.36,Survived
+"Greenfield, Mrs. Leo David (Blanche Strouse)",45.0,Female,1st,63.36,Survived
+"Guggenheim, Mr. Benjamin",46.0,Male,1st,79.2,Died
+"Harder, Mr. George Achilles",25.0,Male,1st,55.44,Survived
+"Harder, Mrs. George Achilles (Dorothy Annan)",25.0,Female,1st,55.44,Survived
+"Harper, Mr. Henry Sleeper",48.0,Male,1st,76.73,Survived
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,Female,1st,76.73,Survived
+"Harris, Mr. Henry Birkhardt",45.0,Male,1st,83.48,Died
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,Female,1st,83.48,Survived
+"Harrison, Mr. William",40.0,Male,1st,0.0,Died
+"Hassab, Mr. Hammad",27.0,Male,1st,76.73,Survived
+"Hays, Miss. Margaret Bechstein",24.0,Female,1st,83.16,Survived
+"Hays, Mr. Charles Melville",55.0,Male,1st,93.5,Died
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,Female,1st,93.5,Survived
+"Head, Mr. Christopher",42.0,Male,1st,42.5,Died
+"Hipkins, Mr. William Edward",55.0,Male,1st,50.0,Died
+"Hippach, Miss. Jean Gertrude",16.0,Female,1st,57.98,Survived
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,Female,1st,57.98,Survived
+"Hogeboom, Mrs. John C (Anna Andrews)",51.0,Female,1st,77.96,Survived
+"Holverson, Mr. Alexander Oskar",42.0,Male,1st,52.0,Died
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35.0,Female,1st,52.0,Survived
+"Homer, Mr. Harry (""Mr E Haven"")",35.0,Male,1st,26.55,Survived
+"Hoyt, Mr. Frederick Maxfield",38.0,Male,1st,90.0,Survived
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,Female,1st,90.0,Survived
+"Icard, Miss. Amelie",38.0,Female,1st,80.0,Survived
+"Isham, Miss. Ann Elizabeth",50.0,Female,1st,28.71,Died
+"Ismay, Mr. Joseph Bruce",49.0,Male,1st,0.0,Survived
+"Jones, Mr. Charles Cresson",46.0,Male,1st,26.0,Died
+"Julian, Mr. Henry Forbes",50.0,Male,1st,26.0,Died
+"Keeping, Mr. Edwin",33.0,Male,1st,211.5,Died
+"Kent, Mr. Edward Austin",58.0,Male,1st,29.7,Died
+"Kenyon, Mr. Frederick R",41.0,Male,1st,51.86,Died
+"Kimball, Mr. Edwin Nelson Jr",42.0,Male,1st,52.55,Survived
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",45.0,Female,1st,52.55,Survived
+"Kreuchen, Miss. Emilie",39.0,Female,1st,211.34,Survived
+"Leader, Dr. Alice (Farnham)",49.0,Female,1st,25.93,Survived
+"LeRoy, Miss. Bertha",30.0,Female,1st,106.43,Survived
+"Lesurer, Mr. Gustave J",35.0,Male,1st,512.33,Survived
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",42.0,Male,1st,26.55,Died
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",55.0,Female,1st,27.72,Survived
+"Lines, Miss. Mary Conover",16.0,Female,1st,39.4,Survived
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",51.0,Female,1st,39.4,Survived
+"Long, Mr. Milton Clyde",29.0,Male,1st,30.0,Died
+"Longley, Miss. Gretchen Fiske",21.0,Female,1st,77.96,Survived
+"Loring, Mr. Joseph Holland",30.0,Male,1st,45.5,Died
+"Lurette, Miss. Elise",58.0,Female,1st,146.52,Survived
+"Madill, Miss. Georgette Alexandra",15.0,Female,1st,211.34,Survived
+"Maguire, Mr. John Edward",30.0,Male,1st,26.0,Died
+"Maioni, Miss. Roberta",16.0,Female,1st,86.5,Survived
+"Marvin, Mr. Daniel Warner",19.0,Male,1st,53.1,Died
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",18.0,Female,1st,53.1,Survived
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24.0,Female,1st,49.5,Survived
+"McCaffry, Mr. Thomas Francis",46.0,Male,1st,75.24,Died
+"McCarthy, Mr. Timothy J",54.0,Male,1st,51.86,Died
+"McGough, Mr. James Robert",36.0,Male,1st,26.29,Survived
+"Meyer, Mr. Edgar Joseph",28.0,Male,1st,82.17,Died
+"Millet, Mr. Francis Davis",65.0,Male,1st,26.55,Died
+"Minahan, Dr. William Edward",44.0,Male,1st,90.0,Died
+"Minahan, Miss. Daisy E",33.0,Female,1st,90.0,Survived
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",37.0,Female,1st,90.0,Survived
+"Mock, Mr. Philipp Edmund",30.0,Male,1st,57.75,Survived
+"Molson, Mr. Harry Markland",55.0,Male,1st,30.5,Died
+"Moore, Mr. Clarence Bloomfield",47.0,Male,1st,42.4,Died
+"Natsch, Mr. Charles H",37.0,Male,1st,29.7,Died
+"Newell, Miss. Madeleine",31.0,Female,1st,113.28,Survived
+"Newell, Miss. Marjorie",23.0,Female,1st,113.28,Survived
+"Newell, Mr. Arthur Webster",58.0,Male,1st,113.28,Died
+"Newsom, Miss. Helen Monypeny",19.0,Female,1st,26.28,Survived
+"Nicholson, Mr. Arthur Ernest",64.0,Male,1st,26.0,Died
+"Oliva y Ocana, Dona. Fermina",39.0,Female,1st,108.9,Survived
+"Ostby, Miss. Helene Ragnhild",22.0,Female,1st,61.98,Survived
+"Ostby, Mr. Engelhart Cornelius",65.0,Male,1st,61.98,Died
+"Ovies y Rodriguez, Mr. Servando",29.0,Male,1st,27.72,Died
+"Partner, Mr. Austen",46.0,Male,1st,28.5,Died
+"Payne, Mr. Vivian Ponsonby",23.0,Male,1st,93.5,Died
+"Pears, Mr. Thomas Clinton",29.0,Male,1st,66.6,Died
+"Pears, Mrs. Thomas (Edith Wearne)",22.0,Female,1st,66.6,Survived
+"Penasco y Castellana, Mr. Victor de Satode",18.0,Male,1st,108.9,Died
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,Female,1st,108.9,Survived
+"Perreault, Miss. Anne",30.0,Female,1st,93.5,Survived
+"Peuchen, Major. Arthur Godfrey",52.0,Male,1st,30.5,Survived
+"Porter, Mr. Walter Chamberlain",47.0,Male,1st,52.0,Died
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,Female,1st,83.16,Survived
+"Reuchlin, Jonkheer. John George",38.0,Male,1st,0.0,Died
+"Ringhini, Mr. Sante",22.0,Male,1st,135.63,Died
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,Female,1st,211.34,Survived
+"Roebling, Mr. Washington Augustus II",31.0,Male,1st,50.5,Died
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45.0,Male,1st,26.55,Survived
+"Rosenbaum, Miss. Edith Louise",33.0,Female,1st,27.72,Survived
+"Rosenshine, Mr. George (""Mr George Thorne"")",46.0,Male,1st,79.2,Died
+"Ross, Mr. John Hugo",36.0,Male,1st,40.13,Died
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,Female,1st,86.5,Survived
+"Rothschild, Mr. Martin",55.0,Male,1st,59.4,Died
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54.0,Female,1st,59.4,Survived
+"Rowe, Mr. Alfred G",33.0,Male,1st,26.55,Died
+"Ryerson, Master. John Borie",13.0,Male,1st,262.38,Survived
+"Ryerson, Miss. Emily Borie",18.0,Female,1st,262.38,Survived
+"Ryerson, Miss. Susan Parker ""Suzette""",21.0,Female,1st,262.38,Survived
+"Ryerson, Mr. Arthur Larned",61.0,Male,1st,262.38,Died
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",48.0,Female,1st,262.38,Survived
+"Sagesser, Mlle. Emma",24.0,Female,1st,69.3,Survived
+"Schabert, Mrs. Paul (Emma Mock)",35.0,Female,1st,57.75,Survived
+"Serepeca, Miss. Augusta",30.0,Female,1st,31.0,Survived
+"Seward, Mr. Frederic Kimber",34.0,Male,1st,26.55,Survived
+"Shutes, Miss. Elizabeth W",40.0,Female,1st,153.46,Survived
+"Silverthorne, Mr. Spencer Victor",35.0,Male,1st,26.29,Survived
+"Silvey, Mr. William Baird",50.0,Male,1st,55.9,Died
+"Silvey, Mrs. William Baird (Alice Munger)",39.0,Female,1st,55.9,Survived
+"Simonius-Blumer, Col. Oberst Alfons",56.0,Male,1st,35.5,Survived
+"Sloper, Mr. William Thompson",28.0,Male,1st,35.5,Survived
+"Smart, Mr. John Montgomery",56.0,Male,1st,26.55,Died
+"Smith, Mr. James Clinch",56.0,Male,1st,30.7,Died
+"Smith, Mr. Lucien Philip",24.0,Male,1st,60.0,Died
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",18.0,Female,1st,60.0,Survived
+"Snyder, Mr. John Pillsbury",24.0,Male,1st,82.27,Survived
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",23.0,Female,1st,82.27,Survived
+"Spedden, Master. Robert Douglas",6.0,Male,1st,134.5,Survived
+"Spedden, Mr. Frederic Oakley",45.0,Male,1st,134.5,Survived
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,Female,1st,134.5,Survived
+"Spencer, Mr. William Augustus",57.0,Male,1st,146.52,Died
+"Stahelin-Maeglin, Dr. Max",32.0,Male,1st,30.5,Survived
+"Stead, Mr. William Thomas",62.0,Male,1st,26.55,Died
+"Stengel, Mr. Charles Emil Henry",54.0,Male,1st,55.44,Survived
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",43.0,Female,1st,55.44,Survived
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,Female,1st,78.27,Survived
+"Stone, Mrs. George Nelson (Martha Evelyn)",62.0,Female,1st,80.0,Survived
+"Straus, Mr. Isidor",67.0,Male,1st,221.78,Died
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",63.0,Female,1st,221.78,Died
+"Sutton, Mr. Frederick",61.0,Male,1st,32.32,Died
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,Female,1st,25.93,Survived
+"Taussig, Miss. Ruth",18.0,Female,1st,79.65,Survived
+"Taussig, Mr. Emil",52.0,Male,1st,79.65,Died
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,Female,1st,79.65,Survived
+"Taylor, Mr. Elmer Zebley",48.0,Male,1st,52.0,Survived
+"Thayer, Mr. John Borland",49.0,Male,1st,110.88,Died
+"Thayer, Mr. John Borland Jr",17.0,Male,1st,110.88,Survived
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,Female,1st,110.88,Survived
+"Tucker, Mr. Gilbert Milligan Jr",31.0,Male,1st,28.54,Survived
+"Uruchurtu, Don. Manuel E",40.0,Male,1st,27.72,Died
+"Van der hoef, Mr. Wyckoff",61.0,Male,1st,33.5,Died
+"Walker, Mr. William Anderson",47.0,Male,1st,34.02,Died
+"Ward, Miss. Anna",35.0,Female,1st,512.33,Survived
+"Warren, Mr. Frank Manley",64.0,Male,1st,75.25,Died
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,Female,1st,75.25,Survived
+"Weir, Col. John",60.0,Male,1st,26.55,Died
+"White, Mr. Percival Wayland",54.0,Male,1st,77.29,Died
+"White, Mr. Richard Frasar",21.0,Male,1st,77.29,Died
+"White, Mrs. John Stuart (Ella Holmes)",55.0,Female,1st,135.63,Survived
+"Wick, Miss. Mary Natalie",31.0,Female,1st,164.87,Survived
+"Wick, Mr. George Dennick",57.0,Male,1st,164.87,Died
+"Wick, Mrs. George Dennick (Mary Hitchcock)",45.0,Female,1st,164.87,Survived
+"Widener, Mr. George Dunton",50.0,Male,1st,211.5,Died
+"Widener, Mr. Harry Elkins",27.0,Male,1st,211.5,Died
+"Widener, Mrs. George Dunton (Eleanor Elkins)",50.0,Female,1st,211.5,Survived
+"Willard, Miss. Constance",21.0,Female,1st,26.55,Survived
+"Williams, Mr. Charles Duane",51.0,Male,1st,61.38,Died
+"Williams, Mr. Richard Norris II",21.0,Male,1st,61.38,Survived
+"Wilson, Miss. Helen Alice",31.0,Female,1st,134.5,Survived
+"Wright, Mr. George",62.0,Male,1st,26.55,Died
+"Young, Miss. Marie Grice",36.0,Female,1st,135.63,Survived
+"Abelson, Mr. Samuel",30.0,Male,2nd,24.0,Died
+"Abelson, Mrs. Samuel (Hannah Wizosky)",28.0,Female,2nd,24.0,Survived
+"Aldworth, Mr. Charles Augustus",30.0,Male,2nd,13.0,Died
+"Andrew, Mr. Edgardo Samuel",18.0,Male,2nd,11.5,Died
+"Andrew, Mr. Frank Thomas",25.0,Male,2nd,10.5,Died
+"Angle, Mr. William A",34.0,Male,2nd,26.0,Died
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36.0,Female,2nd,26.0,Survived
+"Ashby, Mr. John",57.0,Male,2nd,13.0,Died
+"Bailey, Mr. Percy Andrew",18.0,Male,2nd,11.5,Died
+"Baimbrigge, Mr. Charles Robert",23.0,Male,2nd,10.5,Died
+"Ball, Mrs. (Ada E Hall)",36.0,Female,2nd,13.0,Survived
+"Banfield, Mr. Frederick James",28.0,Male,2nd,10.5,Died
+"Bateman, Rev. Robert James",51.0,Male,2nd,12.53,Died
+"Beane, Mr. Edward",32.0,Male,2nd,26.0,Survived
+"Beane, Mrs. Edward (Ethel Clarke)",19.0,Female,2nd,26.0,Survived
+"Beauchamp, Mr. Henry James",28.0,Male,2nd,26.0,Died
+"Becker, Master. Richard F",1.0,Male,2nd,39.0,Survived
+"Becker, Miss. Marion Louise",4.0,Female,2nd,39.0,Survived
+"Becker, Miss. Ruth Elizabeth",12.0,Female,2nd,39.0,Survived
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",36.0,Female,2nd,39.0,Survived
+"Beesley, Mr. Lawrence",34.0,Male,2nd,13.0,Survived
+"Bentham, Miss. Lilian W",19.0,Female,2nd,13.0,Survived
+"Berriman, Mr. William John",23.0,Male,2nd,13.0,Died
+"Botsford, Mr. William Hull",26.0,Male,2nd,13.0,Died
+"Bowenur, Mr. Solomon",42.0,Male,2nd,13.0,Died
+"Bracken, Mr. James H",27.0,Male,2nd,13.0,Died
+"Brown, Miss. Amelia ""Mildred""",24.0,Female,2nd,13.0,Survived
+"Brown, Miss. Edith Eileen",15.0,Female,2nd,39.0,Survived
+"Brown, Mr. Thomas William Solomon",60.0,Male,2nd,39.0,Died
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40.0,Female,2nd,39.0,Survived
+"Bryhl, Miss. Dagmar Jenny Ingeborg",20.0,Female,2nd,26.0,Survived
+"Bryhl, Mr. Kurt Arnold Gottfrid",25.0,Male,2nd,26.0,Died
+"Buss, Miss. Kate",36.0,Female,2nd,13.0,Survived
+"Butler, Mr. Reginald Fenton",25.0,Male,2nd,13.0,Died
+"Byles, Rev. Thomas Roussel Davids",42.0,Male,2nd,13.0,Died
+"Bystrom, Mrs. (Karolina)",42.0,Female,2nd,13.0,Survived
+"Caldwell, Master. Alden Gates",1.0,Male,2nd,29.0,Survived
+"Caldwell, Mr. Albert Francis",26.0,Male,2nd,29.0,Survived
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22.0,Female,2nd,29.0,Survived
+"Cameron, Miss. Clear Annie",35.0,Female,2nd,21.0,Survived
+"Carbines, Mr. William",19.0,Male,2nd,13.0,Died
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44.0,Female,2nd,26.0,Died
+"Carter, Rev. Ernest Courtenay",54.0,Male,2nd,26.0,Died
+"Chapman, Mr. Charles Henry",52.0,Male,2nd,13.5,Died
+"Chapman, Mr. John Henry",37.0,Male,2nd,26.0,Died
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",29.0,Female,2nd,26.0,Died
+"Christy, Miss. Julie Rachel",25.0,Female,2nd,30.0,Survived
+"Christy, Mrs. (Alice Frances)",45.0,Female,2nd,30.0,Survived
+"Clarke, Mr. Charles Valentine",29.0,Male,2nd,26.0,Died
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",28.0,Female,2nd,26.0,Survived
+"Coleridge, Mr. Reginald Charles",29.0,Male,2nd,10.5,Died
+"Collander, Mr. Erik Gustaf",28.0,Male,2nd,13.0,Died
+"Collett, Mr. Sidney C Stuart",24.0,Male,2nd,10.5,Survived
+"Collyer, Miss. Marjorie ""Lottie""",8.0,Female,2nd,26.25,Survived
+"Collyer, Mr. Harvey",31.0,Male,2nd,26.25,Died
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31.0,Female,2nd,26.25,Survived
+"Cook, Mrs. (Selena Rogers)",22.0,Female,2nd,10.5,Survived
+"Corbett, Mrs. Walter H (Irene Colvin)",30.0,Female,2nd,13.0,Died
+"Cotterill, Mr. Henry ""Harry""",21.0,Male,2nd,11.5,Died
+"Davies, Master. John Morgan Jr",8.0,Male,2nd,36.75,Survived
+"Davies, Mr. Charles Henry",18.0,Male,2nd,73.5,Died
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",48.0,Female,2nd,36.75,Survived
+"Davis, Miss. Mary",28.0,Female,2nd,13.0,Survived
+"de Brito, Mr. Jose Joaquim",32.0,Male,2nd,13.0,Died
+"Deacon, Mr. Percy William",17.0,Male,2nd,73.5,Died
+"del Carlo, Mr. Sebastiano",29.0,Male,2nd,27.72,Died
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",24.0,Female,2nd,27.72,Survived
+"Denbury, Mr. Herbert",25.0,Male,2nd,31.5,Died
+"Dibden, Mr. William",18.0,Male,2nd,73.5,Died
+"Doling, Miss. Elsie",18.0,Female,2nd,23.0,Survived
+"Doling, Mrs. John T (Ada Julia Bone)",34.0,Female,2nd,23.0,Survived
+"Downton, Mr. William James",54.0,Male,2nd,26.0,Died
+"Drew, Master. Marshall Brines",8.0,Male,2nd,32.5,Survived
+"Drew, Mr. James Vivian",42.0,Male,2nd,32.5,Died
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34.0,Female,2nd,32.5,Survived
+"Duran y More, Miss. Asuncion",27.0,Female,2nd,13.86,Survived
+"Duran y More, Miss. Florentina",30.0,Female,2nd,13.86,Survived
+"Eitemiller, Mr. George Floyd",23.0,Male,2nd,13.0,Died
+"Enander, Mr. Ingvar",21.0,Male,2nd,13.0,Died
+"Fahlstrom, Mr. Arne Jonas",18.0,Male,2nd,13.0,Died
+"Faunthorpe, Mr. Harry",40.0,Male,2nd,26.0,Died
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29.0,Female,2nd,26.0,Survived
+"Fillbrook, Mr. Joseph Charles",18.0,Male,2nd,10.5,Died
+"Fox, Mr. Stanley Hubert",36.0,Male,2nd,13.0,Died
+"Funk, Miss. Annie Clemmer",38.0,Female,2nd,13.0,Died
+"Fynney, Mr. Joseph J",35.0,Male,2nd,26.0,Died
+"Gale, Mr. Harry",38.0,Male,2nd,21.0,Died
+"Gale, Mr. Shadrach",34.0,Male,2nd,21.0,Died
+"Garside, Miss. Ethel",34.0,Female,2nd,13.0,Survived
+"Gaskell, Mr. Alfred",16.0,Male,2nd,26.0,Died
+"Gavey, Mr. Lawrence",26.0,Male,2nd,10.5,Died
+"Gilbert, Mr. William",47.0,Male,2nd,10.5,Died
+"Giles, Mr. Edgar",21.0,Male,2nd,11.5,Died
+"Giles, Mr. Frederick Edward",21.0,Male,2nd,11.5,Died
+"Giles, Mr. Ralph",24.0,Male,2nd,13.5,Died
+"Gill, Mr. John William",24.0,Male,2nd,13.0,Died
+"Gillespie, Mr. William Henry",34.0,Male,2nd,13.0,Died
+"Givard, Mr. Hans Kristensen",30.0,Male,2nd,13.0,Died
+"Greenberg, Mr. Samuel",52.0,Male,2nd,13.0,Died
+"Hale, Mr. Reginald",30.0,Male,2nd,13.0,Died
+"Hamalainen, Master. Viljo",1.0,Male,2nd,14.5,Survived
+"Hamalainen, Mrs. William (Anna)",24.0,Female,2nd,14.5,Survived
+"Harbeck, Mr. William H",44.0,Male,2nd,13.0,Died
+"Harper, Miss. Annie Jessie ""Nina""",6.0,Female,2nd,33.0,Survived
+"Harper, Rev. John",28.0,Male,2nd,33.0,Died
+"Harris, Mr. George",62.0,Male,2nd,10.5,Survived
+"Harris, Mr. Walter",30.0,Male,2nd,10.5,Died
+"Hart, Miss. Eva Miriam",7.0,Female,2nd,26.25,Survived
+"Hart, Mr. Benjamin",43.0,Male,2nd,26.25,Died
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45.0,Female,2nd,26.25,Survived
+"Herman, Miss. Alice",24.0,Female,2nd,65.0,Survived
+"Herman, Miss. Kate",24.0,Female,2nd,65.0,Survived
+"Herman, Mr. Samuel",49.0,Male,2nd,65.0,Died
+"Herman, Mrs. Samuel (Jane Laver)",48.0,Female,2nd,65.0,Survived
+"Hewlett, Mrs. (Mary D Kingcome)",55.0,Female,2nd,16.0,Survived
+"Hickman, Mr. Leonard Mark",24.0,Male,2nd,73.5,Died
+"Hickman, Mr. Lewis",32.0,Male,2nd,73.5,Died
+"Hickman, Mr. Stanley George",21.0,Male,2nd,73.5,Died
+"Hiltunen, Miss. Marta",18.0,Female,2nd,13.0,Died
+"Hocking, Miss. Ellen ""Nellie""",20.0,Female,2nd,23.0,Survived
+"Hocking, Mr. Richard George",23.0,Male,2nd,11.5,Died
+"Hocking, Mr. Samuel James Metcalfe",36.0,Male,2nd,13.0,Died
+"Hocking, Mrs. Elizabeth (Eliza Needs)",54.0,Female,2nd,23.0,Survived
+"Hodges, Mr. Henry Price",50.0,Male,2nd,13.0,Died
+"Hold, Mr. Stephen",44.0,Male,2nd,26.0,Died
+"Hold, Mrs. Stephen (Annie Margaret Hill)",29.0,Female,2nd,26.0,Survived
+"Hood, Mr. Ambrose Jr",21.0,Male,2nd,73.5,Died
+"Hosono, Mr. Masabumi",42.0,Male,2nd,13.0,Survived
+"Howard, Mr. Benjamin",63.0,Male,2nd,26.0,Died
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",60.0,Female,2nd,26.0,Died
+"Hunt, Mr. George Henry",33.0,Male,2nd,12.28,Died
+"Ilett, Miss. Bertha",17.0,Female,2nd,10.5,Survived
+"Jacobsohn, Mr. Sidney Samuel",42.0,Male,2nd,27.0,Died
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24.0,Female,2nd,27.0,Survived
+"Jarvis, Mr. John Denzil",47.0,Male,2nd,15.0,Died
+"Jefferys, Mr. Clifford Thomas",24.0,Male,2nd,31.5,Died
+"Jefferys, Mr. Ernest Wilfred",22.0,Male,2nd,31.5,Died
+"Jenkin, Mr. Stephen Curnow",32.0,Male,2nd,10.5,Died
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23.0,Female,2nd,13.79,Survived
+"Kantor, Mr. Sinai",34.0,Male,2nd,26.0,Died
+"Kantor, Mrs. Sinai (Miriam Sternin)",24.0,Female,2nd,26.0,Survived
+"Karnes, Mrs. J Frank (Claire Bennett)",22.0,Female,2nd,21.0,Died
+"Keane, Mr. Daniel",35.0,Male,2nd,12.35,Died
+"Kelly, Mrs. Florence ""Fannie""",45.0,Female,2nd,13.5,Survived
+"Kirkland, Rev. Charles Leonard",57.0,Male,2nd,12.35,Died
+"Kvillner, Mr. Johan Henrik Johannesson",31.0,Male,2nd,10.5,Died
+"Lahtinen, Mrs. William (Anna Sylfven)",26.0,Female,2nd,26.0,Died
+"Lahtinen, Rev. William",30.0,Male,2nd,26.0,Died
+"Laroche, Miss. Louise",1.0,Female,2nd,41.58,Survived
+"Laroche, Miss. Simonne Marie Anne Andree",3.0,Female,2nd,41.58,Survived
+"Laroche, Mr. Joseph Philippe Lemercier",25.0,Male,2nd,41.58,Died
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22.0,Female,2nd,41.58,Survived
+"Lehmann, Miss. Bertha",17.0,Female,2nd,12.0,Survived
+"Lemore, Mrs. (Amelia Milley)",34.0,Female,2nd,10.5,Survived
+"Levy, Mr. Rene Jacques",36.0,Male,2nd,12.88,Died
+"Leyson, Mr. Robert William Norman",24.0,Male,2nd,10.5,Died
+"Lingane, Mr. John",61.0,Male,2nd,12.35,Died
+"Louch, Mr. Charles Alexander",50.0,Male,2nd,26.0,Died
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42.0,Female,2nd,26.0,Survived
+"Mack, Mrs. (Mary)",57.0,Female,2nd,10.5,Died
+"Mallet, Master. Andre",1.0,Male,2nd,37.0,Survived
+"Mallet, Mr. Albert",31.0,Male,2nd,37.0,Died
+"Mallet, Mrs. Albert (Antoinette Magnin)",24.0,Female,2nd,37.0,Survived
+"Matthews, Mr. William John",30.0,Male,2nd,13.0,Died
+"Maybery, Mr. Frank Hubert",40.0,Male,2nd,16.0,Died
+"McCrae, Mr. Arthur Gordon",32.0,Male,2nd,13.5,Died
+"McCrie, Mr. James Matthew",30.0,Male,2nd,13.0,Died
+"McKane, Mr. Peter David",46.0,Male,2nd,26.0,Died
+"Mellinger, Miss. Madeleine Violet",13.0,Female,2nd,19.5,Survived
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",41.0,Female,2nd,19.5,Survived
+"Mellors, Mr. William John",19.0,Male,2nd,10.5,Survived
+"Meyer, Mr. August",39.0,Male,2nd,13.0,Died
+"Milling, Mr. Jacob Christian",48.0,Male,2nd,13.0,Died
+"Mitchell, Mr. Henry Michael",70.0,Male,2nd,10.5,Died
+"Montvila, Rev. Juozas",27.0,Male,2nd,13.0,Died
+"Moraweck, Dr. Ernest",54.0,Male,2nd,14.0,Died
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",39.0,Male,2nd,26.0,Died
+"Mudd, Mr. Thomas Charles",16.0,Male,2nd,10.5,Died
+"Myles, Mr. Thomas Francis",62.0,Male,2nd,9.69,Died
+"Nasser, Mr. Nicholas",33.0,Male,2nd,30.07,Died
+"Nasser, Mrs. Nicholas (Adele Achem)",14.0,Female,2nd,30.07,Survived
+"Navratil, Master. Edmond Roger",2.0,Male,2nd,26.0,Survived
+"Navratil, Master. Michel M",3.0,Male,2nd,26.0,Survived
+"Navratil, Mr. Michel (""Louis M Hoffman"")",37.0,Male,2nd,26.0,Died
+"Nesson, Mr. Israel",26.0,Male,2nd,13.0,Died
+"Nicholls, Mr. Joseph Charles",19.0,Male,2nd,36.75,Died
+"Norman, Mr. Robert Douglas",28.0,Male,2nd,13.5,Died
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",20.0,Male,2nd,13.86,Survived
+"Nye, Mrs. (Elizabeth Ramell)",29.0,Female,2nd,10.5,Survived
+"Otter, Mr. Richard",39.0,Male,2nd,13.0,Died
+"Oxenham, Mr. Percy Thomas",22.0,Male,2nd,10.5,Survived
+"Pain, Dr. Alfred",23.0,Male,2nd,10.5,Died
+"Pallas y Castello, Mr. Emilio",29.0,Male,2nd,13.86,Survived
+"Parker, Mr. Clifford Richard",28.0,Male,2nd,10.5,Died
+"Parrish, Mrs. (Lutie Davis)",50.0,Female,2nd,26.0,Survived
+"Pengelly, Mr. Frederick William",19.0,Male,2nd,10.5,Died
+"Peruschitz, Rev. Joseph Maria",41.0,Male,2nd,13.0,Died
+"Phillips, Miss. Alice Frances Louisa",21.0,Female,2nd,21.0,Survived
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19.0,Female,2nd,26.0,Survived
+"Phillips, Mr. Escott Robert",43.0,Male,2nd,21.0,Died
+"Pinsky, Mrs. (Rosa)",32.0,Female,2nd,13.0,Survived
+"Ponesell, Mr. Martin",34.0,Male,2nd,13.0,Died
+"Portaluppi, Mr. Emilio Ilario Giuseppe",30.0,Male,2nd,12.74,Survived
+"Pulbaum, Mr. Franz",27.0,Male,2nd,15.03,Died
+"Quick, Miss. Phyllis May",2.0,Female,2nd,26.0,Survived
+"Quick, Miss. Winifred Vera",8.0,Female,2nd,26.0,Survived
+"Quick, Mrs. Frederick Charles (Jane Richards)",33.0,Female,2nd,26.0,Survived
+"Reeves, Mr. David",36.0,Male,2nd,10.5,Died
+"Renouf, Mr. Peter Henry",34.0,Male,2nd,21.0,Died
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30.0,Female,2nd,21.0,Survived
+"Reynaldo, Ms. Encarnacion",28.0,Female,2nd,13.0,Survived
+"Richard, Mr. Emile",23.0,Male,2nd,15.05,Died
+"Richards, Master. George Sibley",1.0,Male,2nd,18.75,Survived
+"Richards, Master. William Rowe",3.0,Male,2nd,18.75,Survived
+"Richards, Mrs. Sidney (Emily Hocking)",24.0,Female,2nd,18.75,Survived
+"Ridsdale, Miss. Lucy",50.0,Female,2nd,10.5,Survived
+"Rogers, Mr. Reginald Harry",19.0,Male,2nd,10.5,Died
+"Rugg, Miss. Emily",21.0,Female,2nd,10.5,Survived
+"Schmidt, Mr. August",26.0,Male,2nd,13.0,Died
+"Sedgwick, Mr. Charles Frederick Waddington",25.0,Male,2nd,13.0,Died
+"Sharp, Mr. Percival James R",27.0,Male,2nd,26.0,Died
+"Shelley, Mrs. William (Imanita Parrish Hall)",25.0,Female,2nd,26.0,Survived
+"Silven, Miss. Lyyli Karoliina",18.0,Female,2nd,13.0,Survived
+"Sincock, Miss. Maude",20.0,Female,2nd,36.75,Survived
+"Sinkkonen, Miss. Anna",30.0,Female,2nd,13.0,Survived
+"Sjostedt, Mr. Ernst Adolf",59.0,Male,2nd,13.5,Died
+"Slayter, Miss. Hilda Mary",30.0,Female,2nd,12.35,Survived
+"Slemen, Mr. Richard James",35.0,Male,2nd,10.5,Died
+"Smith, Miss. Marion Elsie",40.0,Female,2nd,13.0,Survived
+"Sobey, Mr. Samuel James Hayden",25.0,Male,2nd,13.0,Died
+"Stanton, Mr. Samuel Ward",41.0,Male,2nd,15.05,Died
+"Stokes, Mr. Philip Joseph",25.0,Male,2nd,10.5,Died
+"Swane, Mr. George",19.0,Male,2nd,13.0,Died
+"Sweet, Mr. George Frederick",14.0,Male,2nd,65.0,Died
+"Toomey, Miss. Ellen",50.0,Female,2nd,10.5,Survived
+"Troupiansky, Mr. Moses Aaron",23.0,Male,2nd,13.0,Died
+"Trout, Mrs. William H (Jessie L)",28.0,Female,2nd,12.65,Survived
+"Troutt, Miss. Edwina Celia ""Winnie""",27.0,Female,2nd,10.5,Survived
+"Turpin, Mr. William John Robert",29.0,Male,2nd,21.0,Died
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27.0,Female,2nd,21.0,Died
+"Veal, Mr. James",40.0,Male,2nd,13.0,Died
+"Walcroft, Miss. Nellie",31.0,Female,2nd,21.0,Survived
+"Ware, Mr. John James",30.0,Male,2nd,21.0,Died
+"Ware, Mr. William Jeffery",23.0,Male,2nd,10.5,Died
+"Ware, Mrs. John James (Florence Louise Long)",31.0,Female,2nd,21.0,Survived
+"Watt, Miss. Bertha J",12.0,Female,2nd,15.75,Survived
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40.0,Female,2nd,15.75,Survived
+"Webber, Miss. Susan",33.0,Female,2nd,13.0,Survived
+"Weisz, Mr. Leopold",27.0,Male,2nd,26.0,Died
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29.0,Female,2nd,26.0,Survived
+"Wells, Master. Ralph Lester",2.0,Male,2nd,23.0,Survived
+"Wells, Miss. Joan",4.0,Female,2nd,23.0,Survived
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",29.0,Female,2nd,23.0,Survived
+"West, Miss. Barbara J",1.0,Female,2nd,27.75,Survived
+"West, Miss. Constance Mirium",5.0,Female,2nd,27.75,Survived
+"West, Mr. Edwy Arthur",36.0,Male,2nd,27.75,Died
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",33.0,Female,2nd,27.75,Survived
+"Wheadon, Mr. Edward H",66.0,Male,2nd,10.5,Died
+"Wilhelms, Mr. Charles",31.0,Male,2nd,13.0,Survived
+"Wright, Miss. Marion",26.0,Female,2nd,13.5,Survived
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",24.0,Female,2nd,13.0,Died
+"Abbing, Mr. Anthony",42.0,Male,3rd,7.55,Died
+"Abbott, Master. Eugene Joseph",13.0,Male,3rd,20.25,Died
+"Abbott, Mr. Rossmore Edward",16.0,Male,3rd,20.25,Died
+"Abbott, Mrs. Stanton (Rosa Hunt)",35.0,Female,3rd,20.25,Survived
+"Abelseth, Miss. Karen Marie",16.0,Female,3rd,7.65,Survived
+"Abelseth, Mr. Olaus Jorgensen",25.0,Male,3rd,7.65,Survived
+"Abrahamsson, Mr. Abraham August Johannes",20.0,Male,3rd,7.93,Survived
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",18.0,Female,3rd,7.23,Survived
+"Adahl, Mr. Mauritz Nils Martin",30.0,Male,3rd,7.25,Died
+"Adams, Mr. John",26.0,Male,3rd,8.05,Died
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40.0,Female,3rd,9.48,Died
+"Aks, Master. Philip Frank",1.0,Male,3rd,9.35,Survived
+"Aks, Mrs. Sam (Leah Rosen)",18.0,Female,3rd,9.35,Survived
+"Albimona, Mr. Nassef Cassem",26.0,Male,3rd,18.79,Survived
+"Alexander, Mr. William",26.0,Male,3rd,7.89,Died
+"Alhomaki, Mr. Ilmari Rudolf",20.0,Male,3rd,7.93,Died
+"Ali, Mr. Ahmed",24.0,Male,3rd,7.05,Died
+"Ali, Mr. William",25.0,Male,3rd,7.05,Died
+"Allen, Mr. William Henry",35.0,Male,3rd,8.05,Died
+"Allum, Mr. Owen George",18.0,Male,3rd,8.3,Died
+"Andersen, Mr. Albert Karvin",32.0,Male,3rd,22.53,Died
+"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,Female,3rd,7.85,Survived
+"Andersson, Master. Sigvard Harald Elias",4.0,Male,3rd,31.28,Died
+"Andersson, Miss. Ebba Iris Alfrida",6.0,Female,3rd,31.28,Died
+"Andersson, Miss. Ellis Anna Maria",2.0,Female,3rd,31.28,Died
+"Andersson, Miss. Erna Alexandra",17.0,Female,3rd,7.93,Survived
+"Andersson, Miss. Ida Augusta Margareta",38.0,Female,3rd,7.78,Died
+"Andersson, Miss. Ingeborg Constanzia",9.0,Female,3rd,31.28,Died
+"Andersson, Miss. Sigrid Elisabeth",11.0,Female,3rd,31.28,Died
+"Andersson, Mr. Anders Johan",39.0,Male,3rd,31.28,Died
+"Andersson, Mr. August Edvard (""Wennerstrom"")",27.0,Male,3rd,7.8,Survived
+"Andersson, Mr. Johan Samuel",26.0,Male,3rd,7.78,Died
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39.0,Female,3rd,31.28,Died
+"Andreasson, Mr. Paul Edvin",20.0,Male,3rd,7.85,Died
+"Angheloff, Mr. Minko",26.0,Male,3rd,7.9,Died
+"Arnold-Franchi, Mr. Josef",25.0,Male,3rd,17.8,Died
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18.0,Female,3rd,17.8,Died
+"Aronsson, Mr. Ernst Axel Algot",24.0,Male,3rd,7.78,Died
+"Asim, Mr. Adola",35.0,Male,3rd,7.05,Died
+"Asplund, Master. Carl Edgar",5.0,Male,3rd,31.39,Died
+"Asplund, Master. Clarence Gustaf Hugo",9.0,Male,3rd,31.39,Died
+"Asplund, Master. Edvin Rojj Felix",3.0,Male,3rd,31.39,Survived
+"Asplund, Master. Filip Oscar",13.0,Male,3rd,31.39,Died
+"Asplund, Miss. Lillian Gertrud",5.0,Female,3rd,31.39,Survived
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40.0,Male,3rd,31.39,Died
+"Asplund, Mr. Johan Charles",23.0,Male,3rd,7.8,Survived
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38.0,Female,3rd,31.39,Survived
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",45.0,Female,3rd,7.23,Survived
+"Assaf, Mr. Gerios",21.0,Male,3rd,7.23,Died
+"Assam, Mr. Ali",23.0,Male,3rd,7.05,Died
+"Attalah, Miss. Malake",17.0,Female,3rd,14.46,Died
+"Attalah, Mr. Sleiman",30.0,Male,3rd,7.23,Died
+"Augustsson, Mr. Albert",23.0,Male,3rd,7.85,Died
+"Ayoub, Miss. Banoura",13.0,Female,3rd,7.23,Survived
+"Baccos, Mr. Raffull",20.0,Male,3rd,7.23,Died
+"Backstrom, Mr. Karl Alfred",32.0,Male,3rd,15.85,Died
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33.0,Female,3rd,15.85,Survived
+"Baclini, Miss. Eugenie",1.0,Female,3rd,19.26,Survived
+"Baclini, Miss. Helene Barbara",1.0,Female,3rd,19.26,Survived
+"Baclini, Miss. Marie Catherine",5.0,Female,3rd,19.26,Survived
+"Baclini, Mrs. Solomon (Latifa Qurban)",24.0,Female,3rd,19.26,Survived
+"Badman, Miss. Emily Louisa",18.0,Female,3rd,8.05,Survived
+"Badt, Mr. Mohamed",40.0,Male,3rd,7.23,Died
+"Balkic, Mr. Cerin",26.0,Male,3rd,7.9,Died
+"Barah, Mr. Hanna Assi",20.0,Male,3rd,7.23,Survived
+"Barbara, Miss. Saiide",18.0,Female,3rd,14.45,Died
+"Barbara, Mrs. (Catherine David)",45.0,Female,3rd,14.45,Died
+"Barry, Miss. Julia",27.0,Female,3rd,7.88,Died
+"Barton, Mr. David John",22.0,Male,3rd,8.05,Died
+"Beavan, Mr. William Thomas",19.0,Male,3rd,8.05,Died
+"Bengtsson, Mr. John Viktor",26.0,Male,3rd,7.78,Died
+"Berglund, Mr. Karl Ivar Sven",22.0,Male,3rd,9.35,Died
+"Betros, Mr. Tannous",20.0,Male,3rd,4.01,Died
+"Bing, Mr. Lee",32.0,Male,3rd,56.5,Survived
+"Birkeland, Mr. Hans Martin Monsen",21.0,Male,3rd,7.78,Died
+"Bjorklund, Mr. Ernst Herbert",18.0,Male,3rd,7.75,Died
+"Bostandyeff, Mr. Guentcho",26.0,Male,3rd,7.9,Died
+"Boulos, Master. Akar",6.0,Male,3rd,15.25,Died
+"Boulos, Miss. Nourelain",9.0,Female,3rd,15.25,Died
+"Bourke, Mr. John",40.0,Male,3rd,15.5,Died
+"Bourke, Mrs. John (Catherine)",32.0,Female,3rd,15.5,Died
+"Bowen, Mr. David John ""Dai""",21.0,Male,3rd,16.1,Died
+"Bradley, Miss. Bridget Delia",22.0,Female,3rd,7.73,Survived
+"Braf, Miss. Elin Ester Maria",20.0,Female,3rd,7.85,Died
+"Braund, Mr. Lewis Richard",29.0,Male,3rd,7.05,Died
+"Braund, Mr. Owen Harris",22.0,Male,3rd,7.25,Died
+"Brobeck, Mr. Karl Rudolf",22.0,Male,3rd,7.8,Died
+"Brocklebank, Mr. William Alfred",35.0,Male,3rd,8.05,Died
+"Buckley, Miss. Katherine",19.0,Female,3rd,7.28,Died
+"Buckley, Mr. Daniel",21.0,Male,3rd,7.82,Survived
+"Burke, Mr. Jeremiah",19.0,Male,3rd,6.75,Died
+"Burns, Miss. Mary Delia",18.0,Female,3rd,7.88,Died
+"Cacic, Miss. Manda",21.0,Female,3rd,8.66,Died
+"Cacic, Miss. Marija",30.0,Female,3rd,8.66,Died
+"Cacic, Mr. Jego Grga",18.0,Male,3rd,8.66,Died
+"Cacic, Mr. Luka",38.0,Male,3rd,8.66,Died
+"Calic, Mr. Jovo",17.0,Male,3rd,8.66,Died
+"Calic, Mr. Petar",17.0,Male,3rd,8.66,Died
+"Canavan, Miss. Mary",21.0,Female,3rd,7.75,Died
+"Canavan, Mr. Patrick",21.0,Male,3rd,7.75,Died
+"Cann, Mr. Ernest Charles",21.0,Male,3rd,8.05,Died
+"Carlsson, Mr. August Sigfrid",28.0,Male,3rd,7.8,Died
+"Carlsson, Mr. Carl Robert",24.0,Male,3rd,7.85,Died
+"Carr, Miss. Helen ""Ellen""",16.0,Female,3rd,7.75,Survived
+"Carr, Miss. Jeannie",37.0,Female,3rd,7.75,Died
+"Carver, Mr. Alfred John",28.0,Male,3rd,7.25,Died
+"Celotti, Mr. Francesco",24.0,Male,3rd,8.05,Died
+"Charters, Mr. David",21.0,Male,3rd,7.73,Died
+"Chip, Mr. Chang",32.0,Male,3rd,56.5,Survived
+"Christmann, Mr. Emil",29.0,Male,3rd,8.05,Died
+"Chronopoulos, Mr. Apostolos",26.0,Male,3rd,14.45,Died
+"Chronopoulos, Mr. Demetrios",18.0,Male,3rd,14.45,Died
+"Coelho, Mr. Domingos Fernandeo",20.0,Male,3rd,7.05,Died
+"Cohen, Mr. Gurshon ""Gus""",18.0,Male,3rd,8.05,Survived
+"Colbert, Mr. Patrick",24.0,Male,3rd,7.25,Died
+"Coleff, Mr. Peju",36.0,Male,3rd,7.5,Died
+"Coleff, Mr. Satio",24.0,Male,3rd,7.5,Died
+"Conlon, Mr. Thomas Henry",31.0,Male,3rd,7.73,Died
+"Connaghton, Mr. Michael",31.0,Male,3rd,7.75,Died
+"Connolly, Miss. Kate",22.0,Female,3rd,7.75,Survived
+"Connolly, Miss. Kate",30.0,Female,3rd,7.63,Died
+"Connors, Mr. Patrick",71.0,Male,3rd,7.75,Died
+"Cook, Mr. Jacob",43.0,Male,3rd,8.05,Died
+"Cor, Mr. Bartol",35.0,Male,3rd,7.9,Died
+"Cor, Mr. Ivan",27.0,Male,3rd,7.9,Died
+"Cor, Mr. Liudevit",19.0,Male,3rd,7.9,Died
+"Corn, Mr. Harry",30.0,Male,3rd,8.05,Died
+"Coutts, Master. Eden Leslie ""Neville""",9.0,Male,3rd,15.9,Survived
+"Coutts, Master. William Loch ""William""",3.0,Male,3rd,15.9,Survived
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",36.0,Female,3rd,15.9,Survived
+"Coxon, Mr. Daniel",59.0,Male,3rd,7.25,Died
+"Crease, Mr. Ernest James",19.0,Male,3rd,8.16,Died
+"Cribb, Miss. Laura Alice",17.0,Female,3rd,16.1,Survived
+"Cribb, Mr. John Hatfield",44.0,Male,3rd,16.1,Died
+"Culumovic, Mr. Jeso",17.0,Male,3rd,8.66,Died
+"Daher, Mr. Shedid",23.0,Male,3rd,7.23,Died
+"Dahl, Mr. Karl Edwart",45.0,Male,3rd,8.05,Survived
+"Dahlberg, Miss. Gerda Ulrika",22.0,Female,3rd,10.52,Died
+"Dakic, Mr. Branko",19.0,Male,3rd,10.17,Died
+"Daly, Miss. Margaret Marcella ""Maggie""",30.0,Female,3rd,6.95,Survived
+"Daly, Mr. Eugene Patrick",29.0,Male,3rd,7.75,Survived
+"Danbom, Master. Gilbert Sigvard Emanuel",0.0,Male,3rd,14.4,Died
+"Danbom, Mr. Ernst Gilbert",34.0,Male,3rd,14.4,Died
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28.0,Female,3rd,14.4,Died
+"Danoff, Mr. Yoto",27.0,Male,3rd,7.9,Died
+"Dantcheff, Mr. Ristiu",25.0,Male,3rd,7.9,Died
+"Davies, Mr. Alfred J",24.0,Male,3rd,24.15,Died
+"Davies, Mr. Evan",22.0,Male,3rd,8.05,Died
+"Davies, Mr. John Samuel",21.0,Male,3rd,24.15,Died
+"Davies, Mr. Joseph",17.0,Male,3rd,8.05,Died
+"de Messemaeker, Mr. Guillaume Joseph",37.0,Male,3rd,17.4,Survived
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,Female,3rd,17.4,Survived
+"de Mulder, Mr. Theodore",30.0,Male,3rd,9.5,Survived
+"de Pelsmaeker, Mr. Alfons",16.0,Male,3rd,9.5,Died
+"Dean, Master. Bertram Vere",1.0,Male,3rd,20.58,Survived
+"Dean, Miss. Elizabeth Gladys ""Millvina""",0.0,Female,3rd,20.58,Survived
+"Dean, Mr. Bertram Frank",26.0,Male,3rd,20.58,Died
+"Dean, Mrs. Bertram (Eva Georgetta Light)",33.0,Female,3rd,20.58,Survived
+"Delalic, Mr. Redjo",25.0,Male,3rd,7.9,Died
+"Dennis, Mr. Samuel",22.0,Male,3rd,7.25,Died
+"Dennis, Mr. William",36.0,Male,3rd,7.25,Died
+"Devaney, Miss. Margaret Delia",19.0,Female,3rd,7.88,Survived
+"Dika, Mr. Mirko",17.0,Male,3rd,7.9,Died
+"Dimic, Mr. Jovan",42.0,Male,3rd,8.66,Died
+"Dintcheff, Mr. Valtcho",43.0,Male,3rd,7.9,Died
+"Dooley, Mr. Patrick",32.0,Male,3rd,7.75,Died
+"Dorking, Mr. Edward Arthur",19.0,Male,3rd,8.05,Survived
+"Dowdell, Miss. Elizabeth",30.0,Female,3rd,12.48,Survived
+"Doyle, Miss. Elizabeth",24.0,Female,3rd,7.75,Died
+"Drapkin, Miss. Jennie",23.0,Female,3rd,8.05,Survived
+"Drazenoic, Mr. Jozef",33.0,Male,3rd,7.9,Died
+"Duane, Mr. Frank",65.0,Male,3rd,7.75,Died
+"Duquemin, Mr. Joseph",24.0,Male,3rd,7.55,Survived
+"Dyker, Mr. Adolf Fredrik",23.0,Male,3rd,13.9,Died
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",22.0,Female,3rd,13.9,Survived
+"Edvardsson, Mr. Gustaf Hjalmar",18.0,Male,3rd,7.78,Died
+"Eklund, Mr. Hans Linus",16.0,Male,3rd,7.78,Died
+"Ekstrom, Mr. Johan",45.0,Male,3rd,6.98,Died
+"Elias, Mr. Joseph",39.0,Male,3rd,7.23,Died
+"Elias, Mr. Joseph Jr",17.0,Male,3rd,7.23,Died
+"Elias, Mr. Tannous",15.0,Male,3rd,7.23,Died
+"Elsbury, Mr. William James",47.0,Male,3rd,7.25,Died
+"Emanuel, Miss. Virginia Ethel",5.0,Female,3rd,12.48,Survived
+"Everett, Mr. Thomas James",41.0,Male,3rd,15.1,Died
+"Farrell, Mr. James",41.0,Male,3rd,7.75,Died
+"Fischer, Mr. Eberhard Thelander",18.0,Male,3rd,7.8,Died
+"Foley, Mr. Joseph",26.0,Male,3rd,7.88,Died
+"Ford, Miss. Doolina Margaret ""Daisy""",21.0,Female,3rd,34.38,Died
+"Ford, Miss. Robina Maggie ""Ruby""",9.0,Female,3rd,34.38,Died
+"Ford, Mr. Edward Watson",18.0,Male,3rd,34.38,Died
+"Ford, Mr. William Neal",16.0,Male,3rd,34.38,Died
+"Ford, Mrs. Edward (Margaret Ann Watson)",48.0,Female,3rd,34.38,Died
+"Gallagher, Mr. Martin",25.0,Male,3rd,7.74,Died
+"Gilinski, Mr. Eliezer",22.0,Male,3rd,8.05,Died
+"Gilnagh, Miss. Katherine ""Katie""",16.0,Female,3rd,7.73,Survived
+"Goldsmith, Master. Frank John William ""Frankie""",9.0,Male,3rd,20.53,Survived
+"Goldsmith, Mr. Frank John",33.0,Male,3rd,20.53,Died
+"Goldsmith, Mr. Nathan",41.0,Male,3rd,7.85,Died
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31.0,Female,3rd,20.53,Survived
+"Goncalves, Mr. Manuel Estanslas",38.0,Male,3rd,7.05,Died
+"Goodwin, Master. Harold Victor",9.0,Male,3rd,46.9,Died
+"Goodwin, Master. Sidney Leonard",1.0,Male,3rd,46.9,Died
+"Goodwin, Master. William Frederick",11.0,Male,3rd,46.9,Died
+"Goodwin, Miss. Jessie Allis",10.0,Female,3rd,46.9,Died
+"Goodwin, Miss. Lillian Amy",16.0,Female,3rd,46.9,Died
+"Goodwin, Mr. Charles Edward",14.0,Male,3rd,46.9,Died
+"Goodwin, Mr. Charles Frederick",40.0,Male,3rd,46.9,Died
+"Goodwin, Mrs. Frederick (Augusta Tyler)",43.0,Female,3rd,46.9,Died
+"Green, Mr. George Henry",51.0,Male,3rd,8.05,Died
+"Gronnestad, Mr. Daniel Danielsen",32.0,Male,3rd,8.36,Died
+"Gustafsson, Mr. Alfred Ossian",20.0,Male,3rd,9.85,Died
+"Gustafsson, Mr. Anders Vilhelm",37.0,Male,3rd,7.93,Died
+"Gustafsson, Mr. Johan Birger",28.0,Male,3rd,7.93,Died
+"Gustafsson, Mr. Karl Gideon",19.0,Male,3rd,7.78,Died
+"Haas, Miss. Aloisia",24.0,Female,3rd,8.85,Died
+"Hagardon, Miss. Kate",17.0,Female,3rd,7.73,Died
+"Hakkarainen, Mr. Pekka Pietari",28.0,Male,3rd,15.85,Died
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24.0,Female,3rd,15.85,Survived
+"Hampe, Mr. Leon",20.0,Male,3rd,9.5,Died
+"Hanna, Mr. Mansour",24.0,Male,3rd,7.23,Died
+"Hansen, Mr. Claus Peter",41.0,Male,3rd,14.11,Died
+"Hansen, Mr. Henrik Juul",26.0,Male,3rd,7.85,Died
+"Hansen, Mr. Henry Damsgaard",21.0,Male,3rd,7.85,Died
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",45.0,Female,3rd,14.11,Survived
+"Harmer, Mr. Abraham (David Lishin)",25.0,Male,3rd,7.25,Died
+"Hassan, Mr. Houssein G N",11.0,Male,3rd,18.79,Died
+"Hedman, Mr. Oskar Arvid",27.0,Male,3rd,6.98,Survived
+"Hegarty, Miss. Hanora ""Nora""",18.0,Female,3rd,6.75,Died
+"Heikkinen, Miss. Laina",26.0,Female,3rd,7.93,Survived
+"Heininen, Miss. Wendla Maria",23.0,Female,3rd,7.93,Died
+"Hellstrom, Miss. Hilda Maria",22.0,Female,3rd,8.96,Survived
+"Hendekovic, Mr. Ignjac",28.0,Male,3rd,7.9,Died
+"Henriksson, Miss. Jenny Lovisa",28.0,Female,3rd,7.78,Died
+"Hirvonen, Miss. Hildur E",2.0,Female,3rd,12.29,Survived
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",22.0,Female,3rd,12.29,Survived
+"Holm, Mr. John Fredrik Alexander",43.0,Male,3rd,6.45,Died
+"Holthen, Mr. Johan Martin",28.0,Male,3rd,22.53,Died
+"Honkanen, Miss. Eliina",27.0,Female,3rd,7.93,Survived
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",42.0,Male,3rd,7.65,Died
+"Ibrahim Shawah, Mr. Yousseff",30.0,Male,3rd,7.23,Died
+"Ilmakangas, Miss. Ida Livija",27.0,Female,3rd,7.93,Died
+"Ilmakangas, Miss. Pieta Sofia",25.0,Female,3rd,7.93,Died
+"Jalsevac, Mr. Ivan",29.0,Male,3rd,7.9,Survived
+"Jansson, Mr. Carl Olof",21.0,Male,3rd,7.8,Survived
+"Jensen, Mr. Hans Peder",20.0,Male,3rd,7.85,Died
+"Jensen, Mr. Niels Peder",48.0,Male,3rd,7.85,Died
+"Jensen, Mr. Svend Lauritz",17.0,Male,3rd,7.05,Died
+"Johanson, Mr. Jakob Alfred",34.0,Male,3rd,6.5,Died
+"Johansson Palmquist, Mr. Oskar Leander",26.0,Male,3rd,7.78,Survived
+"Johansson, Mr. Erik",22.0,Male,3rd,7.8,Died
+"Johansson, Mr. Gustaf Joel",33.0,Male,3rd,8.65,Died
+"Johansson, Mr. Karl Johan",31.0,Male,3rd,7.78,Died
+"Johansson, Mr. Nils",29.0,Male,3rd,7.85,Died
+"Johnson, Master. Harold Theodor",4.0,Male,3rd,11.13,Survived
+"Johnson, Miss. Eleanor Ileen",1.0,Female,3rd,11.13,Survived
+"Johnson, Mr. Alfred",49.0,Male,3rd,0.0,Died
+"Johnson, Mr. Malkolm Joackim",33.0,Male,3rd,7.78,Died
+"Johnson, Mr. William Cahoone Jr",19.0,Male,3rd,0.0,Died
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27.0,Female,3rd,11.13,Survived
+"Jonkoff, Mr. Lalio",23.0,Male,3rd,7.9,Died
+"Jonsson, Mr. Carl",32.0,Male,3rd,7.85,Survived
+"Jonsson, Mr. Nils Hilding",27.0,Male,3rd,7.85,Died
+"Jussila, Miss. Katriina",20.0,Female,3rd,9.83,Died
+"Jussila, Miss. Mari Aina",21.0,Female,3rd,9.83,Died
+"Jussila, Mr. Eiriik",32.0,Male,3rd,7.93,Survived
+"Kallio, Mr. Nikolai Erland",17.0,Male,3rd,7.13,Died
+"Kalvik, Mr. Johannes Halvorsen",21.0,Male,3rd,8.43,Died
+"Karaic, Mr. Milan",30.0,Male,3rd,7.9,Died
+"Karlsson, Mr. Einar Gervasius",21.0,Male,3rd,7.8,Survived
+"Karlsson, Mr. Julius Konrad Eugen",33.0,Male,3rd,7.85,Died
+"Karlsson, Mr. Nils August",22.0,Male,3rd,7.52,Died
+"Karun, Miss. Manca",4.0,Female,3rd,13.42,Survived
+"Karun, Mr. Franz",39.0,Male,3rd,13.42,Survived
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",19.0,Male,3rd,7.23,Died
+"Kelly, Mr. James",35.0,Male,3rd,7.83,Died
+"Kelly, Mr. James",44.0,Male,3rd,8.05,Died
+"Kink, Miss. Maria",22.0,Female,3rd,8.66,Died
+"Kink, Mr. Vincenz",26.0,Male,3rd,8.66,Died
+"Kink-Heilmann, Miss. Luise Gretchen",4.0,Female,3rd,22.03,Survived
+"Kink-Heilmann, Mr. Anton",29.0,Male,3rd,22.03,Survived
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",26.0,Female,3rd,22.03,Survived
+"Klasen, Miss. Gertrud Emilia",1.0,Female,3rd,12.18,Died
+"Klasen, Mr. Klas Albin",18.0,Male,3rd,7.85,Died
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",36.0,Female,3rd,12.18,Died
+"Krekorian, Mr. Neshan",25.0,Male,3rd,7.23,Survived
+"Laitinen, Miss. Kristina Sofia",37.0,Female,3rd,9.59,Died
+"Landergren, Miss. Aurora Adelia",22.0,Female,3rd,7.25,Survived
+"Lang, Mr. Fang",26.0,Male,3rd,56.5,Survived
+"Larsson, Mr. August Viktor",29.0,Male,3rd,9.48,Died
+"Larsson, Mr. Bengt Edvin",29.0,Male,3rd,7.78,Died
+"Larsson-Rondberg, Mr. Edvard A",22.0,Male,3rd,7.78,Died
+"Leeni, Mr. Fahim (""Philip Zenni"")",22.0,Male,3rd,7.23,Survived
+"Leinonen, Mr. Antti Gustaf",32.0,Male,3rd,7.93,Died
+"Lemberopolous, Mr. Peter L",35.0,Male,3rd,6.44,Died
+"Leonard, Mr. Lionel",36.0,Male,3rd,0.0,Died
+"Lester, Mr. James",39.0,Male,3rd,24.15,Died
+"Lievens, Mr. Rene Aime",24.0,Male,3rd,9.5,Died
+"Lindahl, Miss. Agda Thorilda Viktoria",25.0,Female,3rd,7.78,Died
+"Lindblom, Miss. Augusta Charlotta",45.0,Female,3rd,7.75,Died
+"Lindell, Mr. Edvard Bengtsson",36.0,Male,3rd,15.55,Died
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",30.0,Female,3rd,15.55,Died
+"Lindqvist, Mr. Eino William",20.0,Male,3rd,7.93,Survived
+"Ling, Mr. Lee",28.0,Male,3rd,56.5,Died
+"Lobb, Mr. William Arthur",30.0,Male,3rd,16.1,Died
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26.0,Female,3rd,16.1,Died
+"Lovell, Mr. John Hall (""Henry"")",21.0,Male,3rd,7.25,Died
+"Lulic, Mr. Nikola",27.0,Male,3rd,8.66,Survived
+"Lundahl, Mr. Johan Svensson",51.0,Male,3rd,7.05,Died
+"Lundin, Miss. Olga Elida",23.0,Female,3rd,7.85,Survived
+"Lundstrom, Mr. Thure Edvin",32.0,Male,3rd,7.58,Survived
+"Madsen, Mr. Fridtjof Arne",24.0,Male,3rd,7.14,Survived
+"Maenpaa, Mr. Matti Alexanteri",22.0,Male,3rd,7.13,Died
+"Makinen, Mr. Kalle Edvard",29.0,Male,3rd,7.93,Died
+"Mangan, Miss. Mary",31.0,Female,3rd,7.75,Died
+"Markoff, Mr. Marin",35.0,Male,3rd,7.9,Died
+"Markun, Mr. Johann",33.0,Male,3rd,7.9,Died
+"McGowan, Miss. Anna ""Annie""",15.0,Female,3rd,8.03,Survived
+"McGowan, Miss. Katherine",35.0,Female,3rd,7.75,Died
+"McNamee, Mr. Neal",24.0,Male,3rd,16.1,Died
+"McNamee, Mrs. Neal (Eileen O'Leary)",19.0,Female,3rd,16.1,Died
+"Meo, Mr. Alfonzo",56.0,Male,3rd,8.05,Died
+"Midtsjo, Mr. Karl Albert",21.0,Male,3rd,7.78,Survived
+"Mineff, Mr. Ivan",24.0,Male,3rd,7.9,Died
+"Minkoff, Mr. Lazar",21.0,Male,3rd,7.9,Died
+"Mionoff, Mr. Stoytcho",28.0,Male,3rd,7.9,Died
+"Moen, Mr. Sigurd Hansen",25.0,Male,3rd,7.65,Died
+"Moor, Master. Meier",6.0,Male,3rd,12.48,Survived
+"Moor, Mrs. (Beila)",27.0,Female,3rd,12.48,Survived
+"Morley, Mr. William",34.0,Male,3rd,8.05,Died
+"Mulvihill, Miss. Bertha E",24.0,Female,3rd,7.75,Survived
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18.0,Male,3rd,7.75,Died
+"Naidenoff, Mr. Penko",22.0,Male,3rd,7.9,Died
+"Najib, Miss. Adele Kiamie ""Jane""",15.0,Female,3rd,7.23,Survived
+"Nakid, Miss. Maria (""Mary"")",1.0,Female,3rd,15.74,Survived
+"Nakid, Mr. Sahid",20.0,Male,3rd,15.74,Survived
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",19.0,Female,3rd,15.74,Survived
+"Nancarrow, Mr. William Henry",33.0,Male,3rd,8.05,Died
+"Nicola-Yarred, Master. Elias",12.0,Male,3rd,11.24,Survived
+"Nicola-Yarred, Miss. Jamila",14.0,Female,3rd,11.24,Survived
+"Nieminen, Miss. Manta Josefina",29.0,Female,3rd,7.93,Died
+"Niklasson, Mr. Samuel",28.0,Male,3rd,8.05,Died
+"Nilsson, Miss. Berta Olivia",18.0,Female,3rd,7.78,Survived
+"Nilsson, Miss. Helmina Josefina",26.0,Female,3rd,7.85,Survived
+"Nilsson, Mr. August Ferdinand",21.0,Male,3rd,7.85,Died
+"Nirva, Mr. Iisakki Antino Aijo",41.0,Male,3rd,7.13,Died
+"Niskanen, Mr. Juha",39.0,Male,3rd,7.93,Survived
+"Nosworthy, Mr. Richard Cater",21.0,Male,3rd,7.8,Died
+"Novel, Mr. Mansouer",29.0,Male,3rd,7.23,Died
+"Nysten, Miss. Anna Sofia",22.0,Female,3rd,7.75,Survived
+"Nysveen, Mr. Johan Hansen",61.0,Male,3rd,6.24,Died
+"Odahl, Mr. Nils Martin",23.0,Male,3rd,9.23,Died
+"Ohman, Miss. Velin",22.0,Female,3rd,7.78,Survived
+"Olsen, Master. Artur Karl",9.0,Male,3rd,3.17,Survived
+"Olsen, Mr. Henry Margido",28.0,Male,3rd,22.53,Died
+"Olsen, Mr. Karl Siegwart Andreas",42.0,Male,3rd,8.4,Died
+"Olsson, Miss. Elina",31.0,Female,3rd,7.85,Died
+"Olsson, Mr. Nils Johan Goransson",28.0,Male,3rd,7.85,Died
+"Olsson, Mr. Oscar Wilhelm",32.0,Male,3rd,7.78,Survived
+"Olsvigen, Mr. Thor Anderson",20.0,Male,3rd,9.23,Died
+"Oreskovic, Miss. Jelka",23.0,Female,3rd,8.66,Died
+"Oreskovic, Miss. Marija",20.0,Female,3rd,8.66,Died
+"Oreskovic, Mr. Luka",20.0,Male,3rd,8.66,Died
+"Osen, Mr. Olaf Elon",16.0,Male,3rd,9.22,Died
+"Osman, Mrs. Mara",31.0,Female,3rd,8.68,Survived
+"Palsson, Master. Gosta Leonard",2.0,Male,3rd,21.08,Died
+"Palsson, Master. Paul Folke",6.0,Male,3rd,21.08,Died
+"Palsson, Miss. Stina Viola",3.0,Female,3rd,21.08,Died
+"Palsson, Miss. Torborg Danira",8.0,Female,3rd,21.08,Died
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29.0,Female,3rd,21.08,Died
+"Panula, Master. Eino Viljami",1.0,Male,3rd,39.69,Died
+"Panula, Master. Juha Niilo",7.0,Male,3rd,39.69,Died
+"Panula, Master. Urho Abraham",2.0,Male,3rd,39.69,Died
+"Panula, Mr. Ernesti Arvid",16.0,Male,3rd,39.69,Died
+"Panula, Mr. Jaako Arnold",14.0,Male,3rd,39.69,Died
+"Panula, Mrs. Juha (Maria Emilia Ojala)",41.0,Female,3rd,39.69,Died
+"Pasic, Mr. Jakob",21.0,Male,3rd,8.66,Died
+"Patchett, Mr. George",19.0,Male,3rd,14.5,Died
+"Pavlovic, Mr. Stefo",32.0,Male,3rd,7.9,Died
+"Peacock, Master. Alfred Edward",1.0,Male,3rd,13.78,Died
+"Peacock, Miss. Treasteall",3.0,Female,3rd,13.78,Died
+"Peacock, Mrs. Benjamin (Edith Nile)",26.0,Female,3rd,13.78,Died
+"Pekoniemi, Mr. Edvard",21.0,Male,3rd,7.93,Died
+"Peltomaki, Mr. Nikolai Johannes",25.0,Male,3rd,7.93,Died
+"Perkin, Mr. John Henry",22.0,Male,3rd,7.25,Died
+"Persson, Mr. Ernst Ulrik",25.0,Male,3rd,7.78,Survived
+"Petersen, Mr. Marius",24.0,Male,3rd,8.05,Died
+"Petranec, Miss. Matilda",28.0,Female,3rd,7.9,Died
+"Petroff, Mr. Nedelio",19.0,Male,3rd,7.9,Died
+"Petterson, Mr. Johan Emil",25.0,Male,3rd,7.78,Died
+"Pettersson, Miss. Ellen Natalia",18.0,Female,3rd,7.78,Died
+"Pickard, Mr. Berk (Berk Trembisky)",32.0,Male,3rd,8.05,Survived
+"Pokrnic, Mr. Mate",17.0,Male,3rd,8.66,Died
+"Pokrnic, Mr. Tome",24.0,Male,3rd,8.66,Died
+"Rekic, Mr. Tido",38.0,Male,3rd,7.9,Died
+"Reynolds, Mr. Harold J",21.0,Male,3rd,8.05,Died
+"Rice, Master. Albert",10.0,Male,3rd,29.13,Died
+"Rice, Master. Arthur",4.0,Male,3rd,29.13,Died
+"Rice, Master. Eric",7.0,Male,3rd,29.13,Died
+"Rice, Master. Eugene",2.0,Male,3rd,29.13,Died
+"Rice, Master. George Hugh",8.0,Male,3rd,29.13,Died
+"Rice, Mrs. William (Margaret Norton)",39.0,Female,3rd,29.13,Died
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",22.0,Female,3rd,39.69,Died
+"Rintamaki, Mr. Matti",35.0,Male,3rd,7.13,Died
+"Robins, Mr. Alexander A",50.0,Male,3rd,14.5,Died
+"Robins, Mrs. Alexander A (Grace Charity Laury)",47.0,Female,3rd,14.5,Died
+"Rosblom, Miss. Salli Helena",2.0,Female,3rd,20.21,Died
+"Rosblom, Mr. Viktor Richard",18.0,Male,3rd,20.21,Died
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41.0,Female,3rd,20.21,Died
+"Rouse, Mr. Richard Henry",50.0,Male,3rd,8.05,Died
+"Rush, Mr. Alfred George John",16.0,Male,3rd,8.05,Died
+"Saad, Mr. Khalil",25.0,Male,3rd,7.23,Died
+"Saether, Mr. Simon Sivertsen",39.0,Male,3rd,7.25,Died
+"Sage, Master. William Henry",15.0,Male,3rd,69.55,Died
+"Salander, Mr. Karl Johan",24.0,Male,3rd,9.33,Died
+"Salkjelsvik, Miss. Anna Kristine",21.0,Female,3rd,7.65,Survived
+"Salonen, Mr. Johan Werner",39.0,Male,3rd,7.93,Died
+"Sandstrom, Miss. Beatrice Irene",1.0,Female,3rd,16.7,Survived
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,Female,3rd,16.7,Survived
+"Sandstrom, Miss. Marguerite Rut",4.0,Female,3rd,16.7,Survived
+"Sap, Mr. Julius",25.0,Male,3rd,9.5,Survived
+"Saundercock, Mr. William Henry",20.0,Male,3rd,8.05,Died
+"Sawyer, Mr. Frederick Charles",25.0,Male,3rd,8.05,Died
+"Sheerlinck, Mr. Jan Baptist",29.0,Male,3rd,9.5,Survived
+"Sirayanian, Mr. Orsen",22.0,Male,3rd,7.23,Died
+"Sivic, Mr. Husein",40.0,Male,3rd,7.9,Died
+"Sivola, Mr. Antti Wilhelm",21.0,Male,3rd,7.93,Died
+"Sjoblom, Miss. Anna Sofia",18.0,Female,3rd,7.5,Survived
+"Skoog, Master. Harald",4.0,Male,3rd,27.9,Died
+"Skoog, Master. Karl Thorsten",10.0,Male,3rd,27.9,Died
+"Skoog, Miss. Mabel",9.0,Female,3rd,27.9,Died
+"Skoog, Miss. Margit Elizabeth",2.0,Female,3rd,27.9,Died
+"Skoog, Mr. Wilhelm",40.0,Male,3rd,27.9,Died
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45.0,Female,3rd,27.9,Died
+"Soholt, Mr. Peter Andreas Lauritz Andersen",19.0,Male,3rd,7.65,Died
+"Somerton, Mr. Francis William",30.0,Male,3rd,8.05,Died
+"Spinner, Mr. Henry John",32.0,Male,3rd,8.05,Died
+"Stankovic, Mr. Ivan",33.0,Male,3rd,8.66,Died
+"Stanley, Miss. Amy Zillah Elsie",23.0,Female,3rd,7.55,Survived
+"Stanley, Mr. Edward Roland",21.0,Male,3rd,8.05,Died
+"Stoytcheff, Mr. Ilia",19.0,Male,3rd,7.9,Died
+"Strandberg, Miss. Ida Sofia",22.0,Female,3rd,9.84,Died
+"Stranden, Mr. Juho",31.0,Male,3rd,7.93,Survived
+"Strilic, Mr. Ivan",27.0,Male,3rd,8.66,Died
+"Strom, Miss. Telma Matilda",2.0,Female,3rd,10.46,Died
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29.0,Female,3rd,10.46,Died
+"Sunderland, Mr. Victor Francis",16.0,Male,3rd,8.05,Survived
+"Sundman, Mr. Johan Julian",44.0,Male,3rd,7.93,Survived
+"Sutehall, Mr. Henry Jr",25.0,Male,3rd,7.05,Died
+"Svensson, Mr. Johan",74.0,Male,3rd,7.78,Died
+"Svensson, Mr. Johan Cervin",14.0,Male,3rd,9.23,Survived
+"Svensson, Mr. Olof",24.0,Male,3rd,7.8,Died
+"Tenglin, Mr. Gunnar Isidor",25.0,Male,3rd,7.8,Survived
+"Theobald, Mr. Thomas Leonard",34.0,Male,3rd,8.05,Died
+"Thomas, Master. Assad Alexander",0.0,Male,3rd,8.52,Survived
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",16.0,Female,3rd,8.52,Survived
+"Tikkanen, Mr. Juho",32.0,Male,3rd,7.93,Died
+"Tomlin, Mr. Ernest Portage",31.0,Male,3rd,8.05,Died
+"Torber, Mr. Ernst William",44.0,Male,3rd,8.05,Died
+"Tornquist, Mr. William Henry",25.0,Male,3rd,0.0,Survived
+"Touma, Master. Georges Youssef",7.0,Male,3rd,15.25,Survived
+"Touma, Miss. Maria Youssef",9.0,Female,3rd,15.25,Survived
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",29.0,Female,3rd,15.25,Survived
+"Turcin, Mr. Stjepan",36.0,Male,3rd,7.9,Died
+"Turja, Miss. Anna Sofia",18.0,Female,3rd,9.84,Survived
+"Turkula, Mrs. (Hedwig)",63.0,Female,3rd,9.59,Survived
+"van Billiard, Master. Walter John",12.0,Male,3rd,14.5,Died
+"van Billiard, Mr. Austin Blyler",41.0,Male,3rd,14.5,Died
+"Van Impe, Miss. Catharina",10.0,Female,3rd,24.15,Died
+"Van Impe, Mr. Jean Baptiste",36.0,Male,3rd,24.15,Died
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30.0,Female,3rd,24.15,Died
+"Vande Velde, Mr. Johannes Joseph",33.0,Male,3rd,9.5,Died
+"Vande Walle, Mr. Nestor Cyriel",28.0,Male,3rd,9.5,Died
+"Vanden Steen, Mr. Leo Peter",28.0,Male,3rd,9.5,Died
+"Vander Cruyssen, Mr. Victor",47.0,Male,3rd,9.0,Died
+"Vander Planke, Miss. Augusta Maria",18.0,Female,3rd,18.0,Died
+"Vander Planke, Mr. Julius",31.0,Male,3rd,18.0,Died
+"Vander Planke, Mr. Leo Edmondus",16.0,Male,3rd,18.0,Died
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31.0,Female,3rd,18.0,Died
+"Vartanian, Mr. David",22.0,Male,3rd,7.23,Survived
+"Vendel, Mr. Olof Edvin",20.0,Male,3rd,7.85,Died
+"Vestrom, Miss. Hulda Amanda Adolfina",14.0,Female,3rd,7.85,Died
+"Vovk, Mr. Janko",22.0,Male,3rd,7.9,Died
+"Waelens, Mr. Achille",22.0,Male,3rd,9.0,Died
+"Wenzel, Mr. Linhart",33.0,Male,3rd,9.5,Died
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",38.0,Female,3rd,7.23,Survived
+"Widegren, Mr. Carl/Charles Peter",51.0,Male,3rd,7.75,Died
+"Wiklund, Mr. Jakob Alfred",18.0,Male,3rd,6.5,Died
+"Wiklund, Mr. Karl Johan",21.0,Male,3rd,6.5,Died
+"Wilkes, Mrs. James (Ellen Needs)",47.0,Female,3rd,7.0,Survived
+"Williams, Mr. Leslie",29.0,Male,3rd,16.1,Died
+"Windelov, Mr. Einar",21.0,Male,3rd,7.25,Died
+"Wirz, Mr. Albert",27.0,Male,3rd,8.66,Died
+"Wittevrongel, Mr. Camille",36.0,Male,3rd,9.5,Died
+"Yasbeck, Mr. Antoni",27.0,Male,3rd,14.45,Died
+"Yasbeck, Mrs. Antoni (Selini Alexander)",15.0,Female,3rd,14.45,Survived
+"Youseff, Mr. Gerious",46.0,Male,3rd,7.23,Died
+"Zabour, Miss. Hileni",15.0,Female,3rd,14.45,Died
+"Zakarian, Mr. Mapriededer",27.0,Male,3rd,7.23,Died
+"Zakarian, Mr. Ortin",27.0,Male,3rd,7.23,Died
+"Zimmerman, Mr. Leo",29.0,Male,3rd,7.88,Died
