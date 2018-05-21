@@ -10,6 +10,10 @@ Collection of My Tutorials
 6. Clustering Case Study
 7. Regression Case Study
 8. Classification Case Study
+9. Numpy (Introductory Tutorial)
+10. ML Algo Implementation (Common ones)
+11. Python 
+12. DS + Algo (Python)
 
 
 
