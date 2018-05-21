@@ -1,0 +1,34 @@
+# Longest common subsequence - https://www.youtube.com/watch?v=NnD96abizww
+
+def lcseq(s1,s2):
+    T = [[0] * (len(s2)+1)] * (len(s1)+1)
+  
+    for i in range(len(s1)+1):
+        for j in range(len(s2)+1):
+            if i ==0 or j==0:
+                T[i][j] = 0
+            elif s1[i-1] == s2[j-1]:
+                T[i][j] = T[i-1][j-1] + 1
+            else:
+                T[i][j] = max(T[i][j-1], T[i-1][j])
+
+    print T[i][j]
+    
+    row = i
+    col = j
+    
+    s = ""
+    while row > 0 and col > 0:
+        if s1[row-1] == s2[col-1]:
+            s = s1[row-1] + s
+            row = row -1
+            col = col -1
+        elif T[row -1][col] > T[row][col-1]:
+            row = row -1
+        else:
+            col =col -1
+    print s
+            
+lcseq("AGGTAB", "GXTXAYB")
+ 
+# Time complexity - O(n*m) where n = length of first seq and m = length of second seq
